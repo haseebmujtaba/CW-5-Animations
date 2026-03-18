@@ -1,8 +1,11 @@
 # CW#5 – Implicit & Explicit Animations in Flutter
 **Members:**
 22k-4307 Haseeb Mujtaba
+
 22k-4508 Murtaza Johar
+
 22k-4414 Shahmir
+
 22k-4345 Saad Ahmed
 
 ---
